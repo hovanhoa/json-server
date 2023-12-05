@@ -1,1 +1,10 @@
-
+{
+  "token": [
+    { "id": 1, "title": "Token 1" },
+    { "id": 2, "title": "Token 2" },
+    { "id": 3, "title": "Token 3" }
+  ],
+  "profile": {
+    "name": "hovanhoa"
+  },
+}
